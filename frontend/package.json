@@ -9,8 +9,10 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@tamagui/vite-plugin": "^1.0.3",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "tamagui-loader": "^1.0.3"
   },
   "devDependencies": {
     "@types/react": "^18.0.26",
