@@ -2,9 +2,8 @@
 SUSURU TV(https://www.youtube.com/@SUSURUTV)を対象とした検索支援アプリの開発
 SUSURU TVで詳細されている店舗をGoogle Map上にプロットし、選択することでYouTubeの動画を視聴できるアプリです。
 ## DEMO
-<div align="center">
-![susuru](https://user-images.githubusercontent.com/79000447/212587701-a4c60dcf-5d64-43eb-92b0-dd86f2eb4235.gif)
-</div>
+![susuru](https://user-images.githubusercontent.com/79000447/212587701-a4c60dcf-5d64-43eb-92b0-dd86f2eb4235.gif#center)
+
 
 ## 使用技術
 ### データの整形
