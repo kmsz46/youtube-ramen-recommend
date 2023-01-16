@@ -16,7 +16,7 @@ YouTube Data APIを用いて、再生リストから動画のURLを取得する�
 ### 2.DataExtention.ipynb
 YouTube Data APIを用いて、各動画から概要欄を収集し、テキスト解析により店舗名、店舗住所、店舗詳細のURLを抽出するためのコードが記載されています。
 
-<img width="478" alt="susuru2" src="https://user-images.githubusercontent.com/79000447/212597113-06c36625-4178-4ee6-b010-d8309a6957b2.png">
+<img width="608" alt="susuru4" src="https://user-images.githubusercontent.com/79000447/212598258-90e23ab7-f788-4120-9e11-cd2517ce8ff0.png">
 
 ### 3.GeocordingAPI.ipynb
 Geocording APIを用いて、取得した店舗住所を座標データに変換するためのコードが記載されています。
