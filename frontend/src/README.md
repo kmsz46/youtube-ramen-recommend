@@ -2,6 +2,7 @@
 ## 各種コンポーネントについて
 ### GenrePick.tsx
 ラジオボタンで探したいラーメンのジャンルを選択し、APIを叩くコンポーネント
+
 <img width="275" alt="スクリーンショット 2023-01-16 12 42 00" src="https://user-images.githubusercontent.com/79000447/212594029-4f189124-3b54-470d-aae4-98a3e21518f8.png">
 
 ```
