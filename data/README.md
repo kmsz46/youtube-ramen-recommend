@@ -3,8 +3,8 @@ SUSURU TVの再生リストから概要欄の情報を収集・情報抽出を�
 <br>※API KEYやファイル名など実環境と異なるため、ここに置かれているコードは動きません
 
 ## 使用技術
-- YouTube Data API(https://developers.google.com/youtube/v3/getting-started?hl=ja)
-- Geocording API(https://developers.google.com/maps/documentation/javascript/geocoding?hl=ja)
+- [YouTube Data API](https://developers.google.com/youtube/v3/getting-started?hl=ja)
+- [Geocording API](https://developers.google.com/maps/documentation/javascript/geocoding?hl=ja)
 - テキスト解析
 
 ## 各種ノートブックの説明
