@@ -13,12 +13,11 @@ jobs:
   build_and_deploy:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - run: cd frontend
+      - uses: actions/checkout@v2      
+      - run: cd frontend && yarn install && yarn run build
         env: 
           VITE_GMAP_API_KEY: ${{ secrets.VITE_GMAP_API_KEY }}
-          VITE_API_URL: ${{ secrets.VITE_API_URL }}        
-      - run: cd frontend && yarn install && yarn run build
+          VITE_API_URL: ${{ secrets.VITE_API_URL }}  
       - uses: FirebaseExtended/action-hosting-deploy@v0
         with:
           repoToken: '${{ secrets.GITHUB_TOKEN }}'
